@@ -1,0 +1,6 @@
+C:\Users\varga\Desktop\metodosEstaticos\metodosEstaticos\bin\Debug\metodosEstaticos.exe.config
+C:\Users\varga\Desktop\metodosEstaticos\metodosEstaticos\obj\Debug\metodosEstaticos.csprojResolveAssemblyReference.cache
+C:\Users\varga\Desktop\metodosEstaticos\metodosEstaticos\bin\Debug\metodosEstaticos.exe
+C:\Users\varga\Desktop\metodosEstaticos\metodosEstaticos\bin\Debug\metodosEstaticos.pdb
+C:\Users\varga\Desktop\metodosEstaticos\metodosEstaticos\obj\Debug\metodosEstaticos.exe
+C:\Users\varga\Desktop\metodosEstaticos\metodosEstaticos\obj\Debug\metodosEstaticos.pdb
